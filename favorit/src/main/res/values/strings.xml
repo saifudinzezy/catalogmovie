@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Favorit</string>
+    <string name="juxdul">Judul</string>
+    <string name="dxesc">Deskripsi</string>
+    <string name="tgl">Tanggal</string>
+    <string name="vote_average">Vote</string>
+    <string name="_3_2">3.2</string>
+    <string name="description">Deskripsi</string>
+    <string name="release_date">Date</string>
+    <string name="vote_count">Vote</string>
+</resources>

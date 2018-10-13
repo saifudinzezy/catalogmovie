@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalog Movie2</string>
+    <string name="navigation_drawer_open">Buka panel samping navigasi</string>
+    <string name="navigation_drawer_close">Tutup panel navigasi</string>
+    <string name="nav_header_title">Film</string>
+    <string name="nav_header_desc">Tajuk navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="now_playing">Sedang dimainkan</string>
+    <string name="tgl">tanggal</string>
+    <string name="desc">Deskripsi</string>
+    <string name="judul">Judul</string>
+    <string name="vote_average">memilih rata-rata</string>
+    <string name="description">Deskripsi</string>
+    <string name="release_date">tanggal rilis</string>
+    <string name="vote_count">hitungan suara</string>
+    <string name="up_comming">Mendatang</string>
+    <string name="search">Pencarian</string>
+</resources>
